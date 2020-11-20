@@ -1,3 +1,7 @@
+# [unreleased]
+
+ * Now using the easier doc linking introduced in Rust 1.48.
+
 # 2.22.0 (December 22nd, 2020)
 
  * The `Context` creation functions `new()` and `new_with_proplist()` will now fail if the version

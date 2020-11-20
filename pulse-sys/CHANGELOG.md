@@ -1,3 +1,7 @@
+# [unreleased]
+
+ * Now using the easier doc linking introduced in Rust 1.48.
+
 # 1.17.0 (December 22nd, 2020)
 
  * Tweaked version constants.

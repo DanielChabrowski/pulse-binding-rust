@@ -1,3 +1,7 @@
+# [unreleased]
+
+ * Now using the easier doc linking introduced in Rust 1.48.
+
 # 2.20.1 (December 15th, 2020)
 
  * Fixed mistake made trying to conditionally enable `#[cfg(doc)]` for docs.rs.
